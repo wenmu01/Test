@@ -1,4 +1,4 @@
-package com.alibaba.dao;
+package com.wenmu.dao;
 
 import org.junit.Test;
 
